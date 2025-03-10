@@ -1,0 +1,29 @@
+---
+title: INTRODUCTION
+---
+
+- This site is meant to...
+  - survey various use-cases for archaeological use of AI, including real and imagined applications
+  - clarify the landscape, ascribe meaningful terms to frame casual discussion about AI
+  - take stock of the issues at hand, to identify points of departure, to characterize the challenges involved, initiate strategies for how to overcome them, and ascertain the risks and rewards of various potential approaches that may be taken as we move forward
+  - situate archaeological use of AI in relation to is application in other fields, and in the context of the consumer-side hype-bubble that permeates every mention of AI (to the point of defining our terms for us, which this paper tries to disentangle and reclaim!)
+
+- The approach taken in writing this document
+  - This document is structured around contexts of use, rather than focused on the technologies that underpin the applications.
+
+- This is a collaborative and expert-driven document.
+  - Each section is written by archaeologists who have experience doing AI in particular use-cases.
+  - Any archaeologist who has direct experience applying an AI method in their work is welcome to comment on the sections relating to their domains of experience.
+  - Some inspiration is drawn from the collaborative experience of contributing to [ODATE](https://o-date.github.io/draft/book/).
+
+- This is an opinionated document in that it is about re-claiming and re-situating AI as an archaeological tool and/or activity.
+  - But at the same time, it is driven by respect for the plurality of approaches that are commonly taken under the umbrella of archaeology and the unique way of thinking all archaeologists share in some way or another.
+
+- Using and referncing this document
+  - Statement about CC0 license
+  - Recommended citation
+
+- Clarify some key terms:
+  - Use-case
+  - AI method
+  - ...

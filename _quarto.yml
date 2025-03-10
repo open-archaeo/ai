@@ -1,0 +1,64 @@
+project:
+  type: website
+  preview:
+    port: 7777
+    browser: false
+
+website:
+  title: "AI in Archaeological Practice"
+  site-url: https://ai.open-archaeo.info
+  repo-url: https://github.com/open-archaeo/ai
+  repo-actions: source
+  bread-crumbs: true
+  page-navigation: false
+  back-to-top-navigation: false
+  # favicon: assets/favicon.ico
+  page-footer:
+    right: |
+      This page built with ❤️ and <a href="https://quarto.org/" target="_blank" rel="noopener">Quarto</a> | <a class="link me-1" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0</a>
+  sidebar:
+    # logo: "assets/picture.png"
+    pinned: true
+    alignment: center
+    style: docked
+    type: dark
+    background: secondary
+    search: true
+    collapse-level: 2
+    contents:
+      - index.qmd
+      - contributing.qmd
+      - template.qmd
+      - use-cases/recognizing-artefact-profiles.qmd
+      - use-cases/epigraphy-symbols.qmd
+      - use-cases/site-detection-aerial.qmd
+      - use-cases/grain-sorting.qmd
+      - use-cases/thin-sections.qmd
+      - use-cases/identifying-colour.qmd
+      - use-cases/journal-extraction.qmd
+      - use-cases/parsing-grey-lit.qmd
+      - use-cases/obsidian-sourcing.qmd
+      - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, assets/theme-dark.scss]
+    page-layout: full
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    toc: true
+    lightbox: true
+    title-block-style: default
+    grid:
+      sidebar-width: 350px
+      body-width: 1000px
+  pdf:
+    documentclass: scrreprt
+
+
+
