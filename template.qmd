@@ -1,0 +1,79 @@
+---
+title: TEMPLATE
+author:
+  - name: Heinrich Schliemann
+    orcid: 1234-5678-0000
+    email: xxxx@yyyy.com
+    affiliations:
+      - name: Bill & Melinda Gates Foundation
+        address: 440 5th Ave N
+        city: Seattle
+        state: WA
+        postal-code: 98109-4631
+        url: example.com
+        note: blah
+        attributes:
+          corresponding: true
+          equal-contributor: true
+          deceased: false
+        role: blah blah blah
+  - name: Arthur Evans
+    orcid: 1234-5678-0000
+    email: xxxx@yyyy.com
+    affiliations:
+      - name: Wellcome Trust
+        address: 440 5th Ave N
+        city: Seattle
+        state: WA
+        postal-code: 98109-4631
+        url: example.com
+        note: bloo
+        attributes:
+          corresponding: false
+          equal-contributor: true
+          deceased: false
+        role: bloo bloo bloo
+---
+
+## About the use case
+- What are the objectives?
+- Does this build upon, substitute or ameliorate any existing methods?
+- What value does the ai method supposedly bring?
+- Overview of challenges that may limit the ability to achieve these potential outcomes?
+
+## About the ai method
+- Overview of the tech that makes it work
+
+## Relationship with other archaeological methods, materials and practices
+- What data does the method rely on?
+- Where do those data originated from, and how are they collected and processed?
+- Does the method take place under noteworthy settings or require controlled circumstances?
+- Do the methods relate to other archaeological activities and information objects?
+  - Are there frictions with other methods and toolsets?
+  - Are there complementary relationships?
+  - Are certain variations of related practices either more or less conducive to the AI application?
+- How does the AI method prompt different ways of working, or prompt archaeologists to ask different kinds of questions than they not have asked / been able to ask / been able to answer without or before AI’s arrival into the archaeological toolbox?
+
+## Application in alternative fields or disciplines
+- Draw associations with similar implementations in other fields of research or industry
+
+## Ethical and legal implications and ramifications
+
+## Implications for open science
+- What are the implications for open science, reproducibility, etc?
+- To what extent is the code / can the code be open and available?
+
+## Implications for archaeological theory
+- How do we evaluate knowledge claims that rely on the AI method?
+- How should we think about the (probably mostly hidden) subjectivity of the AI method?
+- What is the role of the method in defining or answering questions?
+- How do archaeologists as human actors using the tool fit into the process of the tool's use, and what role does the tool have in arriving at, documenting and validating archaeological knowledge?
+
+## Glossary
+- List of key terms and concepts, including explanations of how each term relates to or differs from others
+
+## Annotated bibliography
+- The goal isn’t for a complete list of works, but pointing out a few papers that are exemplary of some concept or practice
+- All records MUST be accompanied by a solid annotation — this is to safeguard against being used as a vehicle for self-promotion in a field that is in many ways driven by hype
+
+## References Cited
