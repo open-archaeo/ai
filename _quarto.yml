@@ -44,9 +44,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: [cosmo, assets/theme-dark.scss]
+    theme: cosmo
     page-layout: full
     code-copy: true
     code-link: true
